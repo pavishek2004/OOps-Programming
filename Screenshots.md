@@ -1,5 +1,5 @@
 # OOps-Programming
-Question No:1
+Question No:1(output screenshot)
 
 ![Image](https://github.com/user-attachments/assets/ac9247dd-ce51-4cdb-a6f4-546f3f244087)
 
@@ -7,6 +7,6 @@ Question No:1
 
 ![Image](https://github.com/user-attachments/assets/9c562d5c-0f05-4dd9-a39a-e95273e04f2b)
 
-Question No:2
+Question No:2(output screenshot)
 
 ![Image](https://github.com/user-attachments/assets/0ff66f0e-385f-48ba-9572-87f08260a9e2)
